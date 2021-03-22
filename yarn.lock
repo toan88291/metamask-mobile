@@ -1608,10 +1608,9 @@
   resolved "https://registry.yarnpkg.com/@metamask/contract-metadata/-/contract-metadata-1.23.0.tgz#c70be7f3eaeeb791651ce793b7cdc230e9780b18"
   integrity sha512-oTUqL9dtXtbng60DZMRsBmZ5HiOUUfEsZjuswOJ0yHO24YsW0ktCcgCJVYPv1HcOsF0SVrRtG4rtrvOl4nY+HA==
 
-"@metamask/controllers@^7.0.0":
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/@metamask/controllers/-/controllers-7.0.0.tgz#8daecd284faa897ca1f112a3f6f28d6936dac674"
-  integrity sha512-vb2/wgGfJFMUa4Ej67FMkV94s0vp765t2vwOt8EOxhWfmEP2v9myc2B95L5jJJZZgvCk2ojaV11CrFF4ookLng==
+"@metamask/controllers@file:./metamask-controllers-v8.0.0-beta.0.tgz":
+  version "8.0.0-beta.0"
+  resolved "file:./metamask-controllers-v8.0.0-beta.0.tgz#0576ded62f85f79c1a9b7e2d19187647a9e36d37"
   dependencies:
     "@metamask/contract-metadata" "^1.23.0"
     "@types/uuid" "^8.3.0"
